@@ -1,4 +1,4 @@
-# Getting Started615
+# Getting Started
 
 ### Reference Documentation
 
